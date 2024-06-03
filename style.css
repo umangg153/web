@@ -172,15 +172,15 @@
   color: white;
 }
 .card1 {
-  background: url(./images/one.png) center;
+  background: url(./Images/one.png) center;
   background-size: cover;
 }
 .card2 {
-  background: url(./images/two.png) center;
+  background: url(./Images/two.png) center;
   background-size: cover;
 }
 .card3 {
-  background: url(./images/three.png) center;
+  background: url(./Images/three.png) center;
   background-size: cover;
 }
 .card1 .overlay,
